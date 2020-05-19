@@ -2,6 +2,7 @@ TOKEN = 'NjgzMzU2MDYwMzkxODMzNjEw.XlqW_g.sUxENy0XYQ8x8WuBUTR9zDNkSFQ'
 
 import discord
 import random
+import json
 
 any = ["Iron Silence: Iron sights and suppressors only",
             "The blind man challenge: Turn brightness all the way down and run m870 recruits.",
