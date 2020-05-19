@@ -1,0 +1,135 @@
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/dist-packages/discord/client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "bot.py", line 160, in on_message
+    await message.channel.send("`A strat for attack: \n" + attack[random.sample(range(1, len(attack)-1), 1)] + "`")
+TypeError: list indices must be integers or slices, not list
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
+We have logged in as Richards Bot#1671
