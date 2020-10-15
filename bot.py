@@ -58,7 +58,6 @@ async def help(ctx):
                      \n-For Dice-\
                      \n$roll <die:amount> ex $roll 6-1```")
 
-
 @bot.event
 async def on_command_error(ctx, error):
     if isinstance(error, CommandNotFound):

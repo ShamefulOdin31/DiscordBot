@@ -902,3 +902,14 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.7/dist-packages/discord/abc.py", line 294, in _fill_overwrites
     self._overwrites.append(_Overwrites(id=overridden_id, **overridden))
 TypeError: __new__() got an unexpected keyword argument 'deny_new'
+SSL error in data received
+protocol: <asyncio.sslproto.SSLProtocol object at 0x7475e150>
+transport: <_SelectorSocketTransport fd=7 read=polling write=<idle, bufsize=0>>
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/asyncio/sslproto.py", line 526, in data_received
+    ssldata, appdata = self._sslpipe.feed_ssldata(data)
+  File "/usr/lib/python3.7/asyncio/sslproto.py", line 207, in feed_ssldata
+    self._sslobj.unwrap()
+  File "/usr/lib/python3.7/ssl.py", line 767, in unwrap
+    return self._sslobj.shutdown()
+ssl.SSLError: [SSL: KRB5_S_INIT] application data after close notify (_ssl.c:2609)
