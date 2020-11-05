@@ -1,11 +1,10 @@
-TOKEN = 'NjgzMzU2MDYwMzkxODMzNjEw.XlqW7A._m2uZ2pdnVPEVcuicgD1Id-krp8'
-
 import discord
 import random
 import json
 from discord.ext import commands
 from discord.ext.commands import CommandNotFound
 import data
+import config
 
 def rolls(type):
     return str(random.randint(1, int(type)))
