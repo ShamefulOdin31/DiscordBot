@@ -64,4 +64,4 @@ async def on_command_error(ctx, error):
         return
     raise error
 
-bot.run(TOKEN)
+bot.run(config.TOKEN)
